@@ -1,6 +1,5 @@
 # Typing Speed Test App
-Simple Desktop App built with Tkinter to calculate user's typing speed
-then calculte the average number of words per minute.
+Simple Desktop App built with Tkinter to calculate user's typing speed / the average number of words per minute.
 ## Concepts Practised
 - Creating Windows and Labels with Tkinter
 - Use place() to complete the User Interface
